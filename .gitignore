@@ -1,0 +1,9 @@
+```text id="ok4"
+dataset/
+model/
+*.keras
+*.h5
+*.mp4
+*.avi
+__pycache__/
+```

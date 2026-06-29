@@ -1,0 +1,1 @@
+{"best_model": "Random\nForest", "accuracy": 75.0, "all_results": {"SVM (RBF)": 37.5, "Random\nForest": 75.0, "KNN": 50.0, "Haar\nCascade\n(Baseline)": 65.0}, "classes": ["awake", "sleeping"], "stats": {"awake": 20, "sleeping": 20}}

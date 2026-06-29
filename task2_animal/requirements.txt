@@ -1,0 +1,6 @@
+```text id="animalall3"
+ultralytics
+opencv-python
+numpy
+pillow
+```
